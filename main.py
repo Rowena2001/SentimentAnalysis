@@ -1,6 +1,4 @@
-# Name: Rowena Shi
-
-# Program reads a given tweets file and a given keywords file and computes the happiness score for each region
+# # Program reads a given tweets file and a given keywords file and computes the happiness score for each region
 # # Assigns a value to each keyword
 # # Identifies the region of each tweet
 # # Reads each word in each tweet and adds the corresponding values for every keyword
