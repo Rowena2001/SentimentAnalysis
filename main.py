@@ -1,5 +1,4 @@
 # Name: Rowena Shi
-# Student Number: 251073629
 
 # Program reads a given tweets file and a given keywords file and computes the happiness score for each region
 # # Assigns a value to each keyword
